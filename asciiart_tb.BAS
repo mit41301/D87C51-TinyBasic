@@ -1,6 +1,6 @@
-01 ## TinyBASIC (整数型)
-05 ASCIIARTに不可能はない！
-07 ```
+01 REM TinyBASIC
+03 REM ASCIIART
+05 REM 4kB FLASH or ROM target
 10 F=50
 20 Y=-12
 30 X=-39
